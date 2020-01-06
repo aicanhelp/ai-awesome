@@ -1,3 +1,6 @@
 [submodule "resources/nlp-progress"]
 	path = resources/nlp-progress
 	url = https://github.com/sebastianruder/NLP-progress.git
+[submodule "resources/deeplearning-models"]
+	path = resources/deeplearning-models
+	url = https://github.com/rasbt/deeplearning-models.git
