@@ -4,3 +4,6 @@
 [submodule "resources/deeplearning-models"]
 	path = resources/deeplearning-models
 	url = https://github.com/rasbt/deeplearning-models.git
+[submodule "resources/funNLP"]
+	path = resources/funNLP
+	url = https://github.com/fighting41love/funNLP.git
